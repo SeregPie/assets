@@ -1,2 +1,3 @@
-# favicon
-My favicon.
+# assets
+
+My assets.
